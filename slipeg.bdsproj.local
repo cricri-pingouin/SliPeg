@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016/06/18 00:20:01.347.pas,E:\Download\mine-source\iaMina.pas=</Transaction>
+    <Transaction>2016/06/18 22:39:06.222.pas,D:\Delphi projects\SliMine\uCampo.pas=D:\Delphi projects\SliMine\Mine.pas</Transaction>
+    <Transaction>2016/06/18 22:39:06.222.dfm,D:\Delphi projects\SliMine\uCampo.dfm=D:\Delphi projects\SliMine\Mine.dfm</Transaction>
+    <Transaction>2016/06/18 22:39:32.170.pas,D:\Delphi projects\SliMine\engMina.pas=D:\Delphi projects\SliMine\SliMine.pas</Transaction>
+    <Transaction>2016/06/18 22:41:27.327.pas,D:\Delphi projects\SliMine\SliMine.pas=</Transaction>
+    <Transaction>2016/06/18 22:41:41.894.bdsproj,D:\Delphi projects\SliMine\campmini.bdsproj=D:\Delphi projects\SliMine\slimine.bdsproj</Transaction>
+    <Transaction>2016/06/20 22:50:59.991.bdsproj,D:\Delphi projects\SliPeg\slimine.bdsproj=D:\Delphi projects\SliPeg\slipeg.bdsproj</Transaction>
+    <Transaction>2016/06/20 22:51:24.509.pas,D:\Delphi projects\SliPeg\Mine.pas=D:\Delphi projects\SliPeg\Peg.pas</Transaction>
+    <Transaction>2016/06/20 22:51:24.509.dfm,D:\Delphi projects\SliPeg\Mine.dfm=D:\Delphi projects\SliPeg\Peg.dfm</Transaction>
+    <Transaction>2016/06/20 22:55:18.263.pas,D:\Delphi projects\SliPeg\OPTIONS.pas=</Transaction>
+    <Transaction>2016/06/20 22:55:18.263.dfm,D:\Delphi projects\SliPeg\OPTIONS.dfm=</Transaction>
+    <Transaction>2016/06/20 22:58:24.465.pas,D:\Delphi projects\SliPeg\HIGHSCORES.pas=</Transaction>
+    <Transaction>2016/06/20 22:58:24.465.dfm,D:\Delphi projects\SliPeg\HIGHSCORES.dfm=</Transaction>
+  </Transactions>
+</BorlandProject>
