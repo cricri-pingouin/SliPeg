@@ -174,9 +174,9 @@ var
   //High score
   WinnerName: string;
 begin
-  tmrGameTime.Enabled := True;
   if (GameRunning = True) and (Button = mbLeft) then
   begin
+    tmrGameTime.Enabled := True;
     PegX := X div PegSize + 1;
     PegY := Y div PegSize + 1;
     //Check BoardSelected for out of bound
