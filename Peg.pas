@@ -105,7 +105,7 @@ begin
   Dec(PegsLeft);
   //Set flag as game running
   GameRunning := True;
-  mnuPegs.Caption := 'Moves=' + IntToStr(PegsLeft);
+  mnuPegs.Caption := 'Pegs=' + IntToStr(PegsLeft);
   //Initialise timer
   tmrGameTime.Enabled := False;
   GameTime := 0;
@@ -230,7 +230,7 @@ begin
           //SelectedY := 0; //Not really needed
           //Decrease pegs left count
           Dec(PegsLeft);
-          mnuPegs.Caption := 'Moves=' + IntToStr(PegsLeft);
+          mnuPegs.Caption := 'Pegs=' + IntToStr(PegsLeft);
           //Game won?
           if (PegsLeft = 1) then
           begin
